@@ -83,7 +83,6 @@ namespace IIS.FILM
         public virtual void FLOAT()
         {
             // *** Start programmer edit section *** (Сеансы.FLOAT method implementation)
-
             return;
             // *** End programmer edit section *** (Сеансы.FLOAT method implementation)
         }

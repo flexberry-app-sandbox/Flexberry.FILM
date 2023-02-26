@@ -22,19 +22,19 @@ export default Controller.extend({
             link: 'i-i-s-f-i-l-m-кинотеатр-l',
             caption: i18n.t('forms.application.sitemap.ф-и-л-ь-м.i-i-s-f-i-l-m-кинотеатр-l.caption'),
             title: i18n.t('forms.application.sitemap.ф-и-л-ь-м.i-i-s-f-i-l-m-кинотеатр-l.title'),
-            icon: 'suitcase',
+            icon: 'briefcase',
             children: null
           }, {
             link: 'i-i-s-f-i-l-m-фильмы-l',
             caption: i18n.t('forms.application.sitemap.ф-и-л-ь-м.i-i-s-f-i-l-m-фильмы-l.caption'),
             title: i18n.t('forms.application.sitemap.ф-и-л-ь-м.i-i-s-f-i-l-m-фильмы-l.title'),
-            icon: 'archive',
+            icon: 'chart line',
             children: null
           }, {
             link: 'i-i-s-f-i-l-m-сеансы-l',
             caption: i18n.t('forms.application.sitemap.ф-и-л-ь-м.i-i-s-f-i-l-m-сеансы-l.caption'),
             title: i18n.t('forms.application.sitemap.ф-и-л-ь-м.i-i-s-f-i-l-m-сеансы-l.title'),
-            icon: 'table',
+            icon: 'phone',
             children: null
           }]
         }, {
@@ -46,19 +46,19 @@ export default Controller.extend({
             link: 'i-i-s-f-i-l-m-сеансы-l',
             caption: i18n.t('forms.application.sitemap.с-п-р-а-в-о-ч-н-и-к-и.i-i-s-f-i-l-m-сеансы-l.caption'),
             title: i18n.t('forms.application.sitemap.с-п-р-а-в-о-ч-н-и-к-и.i-i-s-f-i-l-m-сеансы-l.title'),
-            icon: 'paperclip',
+            icon: 'phone',
             children: null
           }, {
             link: 'i-i-s-f-i-l-m-кинотеатр-l',
             caption: i18n.t('forms.application.sitemap.с-п-р-а-в-о-ч-н-и-к-и.i-i-s-f-i-l-m-кинотеатр-l.caption'),
             title: i18n.t('forms.application.sitemap.с-п-р-а-в-о-ч-н-и-к-и.i-i-s-f-i-l-m-кинотеатр-l.title'),
-            icon: 'tags',
+            icon: 'chart line',
             children: null
           }, {
             link: 'i-i-s-f-i-l-m-фильмы-l',
             caption: i18n.t('forms.application.sitemap.с-п-р-а-в-о-ч-н-и-к-и.i-i-s-f-i-l-m-фильмы-l.caption'),
             title: i18n.t('forms.application.sitemap.с-п-р-а-в-о-ч-н-и-к-и.i-i-s-f-i-l-m-фильмы-l.title'),
-            icon: 'list',
+            icon: 'tags',
             children: null
           }]
         }

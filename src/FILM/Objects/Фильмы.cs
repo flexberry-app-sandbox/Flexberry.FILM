@@ -80,7 +80,6 @@ namespace IIS.FILM
         public virtual void VARCHAR()
         {
             // *** Start programmer edit section *** (Фильмы.VARCHAR method implementation)
-
             return;
             // *** End programmer edit section *** (Фильмы.VARCHAR method implementation)
         }
