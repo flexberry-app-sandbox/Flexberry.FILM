@@ -1,0 +1,66 @@
+﻿{
+  "name": "IISFILMСеансы",
+  "modelName": "i-i-s-f-i-l-m-сеансы",
+  "className": "Сеансы",
+  "nameSpace": "IIS.FILM",
+  "parentModelName": "i-i-s-f-i-l-m-фильмы",
+  "parentClassName": "Фильмы",
+  "attrs": [
+    {
+      "name": "pK",
+      "type": "string",
+      "flexberryType": "string",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    }
+  ],
+  "belongsTo": [],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "СеансыE",
+      "modelName": "i-i-s-f-i-l-m-сеансы",
+      "attrs": [
+        {
+          "name": "pK",
+          "caption": "PK",
+          "hidden": false,
+          "index": 0
+        },
+        {
+          "name": "код",
+          "caption": "Код",
+          "hidden": false,
+          "index": 1
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    },
+    {
+      "name": "СеансыL",
+      "modelName": "i-i-s-f-i-l-m-сеансы",
+      "attrs": [
+        {
+          "name": "pK",
+          "caption": "PK",
+          "hidden": false,
+          "index": 0
+        },
+        {
+          "name": "код",
+          "caption": "Код",
+          "hidden": false,
+          "index": 1
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}

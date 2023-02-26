@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-f-i-l-m-фильмы-e",
+  "editForm": "i-i-s-f-i-l-m-фильмы-e",
+  "external": false,
+  "caption": "Фильмы",
+  "name": "IISFILMФильмыL",
+  "className": "ФильмыL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-f-i-l-m-фильмы",
+      "modelProjection": "ФильмыL"
+    }
+  ]
+}

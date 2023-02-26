@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Сеансы",
+  "name": "IISFILMСеансыE",
+  "className": "СеансыE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-f-i-l-m-сеансы",
+      "modelProjection": "СеансыE"
+    }
+  ]
+}

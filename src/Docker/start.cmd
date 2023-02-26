@@ -1,0 +1,1 @@
+docker-compose -p film up -d

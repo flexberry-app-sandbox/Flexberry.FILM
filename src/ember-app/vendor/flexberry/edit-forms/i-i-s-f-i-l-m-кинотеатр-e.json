@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Кинотеатр",
+  "name": "IISFILMКинотеатрE",
+  "className": "КинотеатрE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-f-i-l-m-кинотеатр",
+      "modelProjection": "КинотеатрE"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Фильмы",
+  "name": "IISFILMФильмыE",
+  "className": "ФильмыE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-f-i-l-m-фильмы",
+      "modelProjection": "ФильмыE"
+    }
+  ]
+}

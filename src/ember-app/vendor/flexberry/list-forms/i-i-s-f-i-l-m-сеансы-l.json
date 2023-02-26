@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-f-i-l-m-сеансы-e",
+  "editForm": "i-i-s-f-i-l-m-сеансы-e",
+  "external": false,
+  "caption": "Сеансы",
+  "name": "IISFILMСеансыL",
+  "className": "СеансыL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-f-i-l-m-сеансы",
+      "modelProjection": "СеансыL"
+    }
+  ]
+}

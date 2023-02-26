@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-f-i-l-m-кинотеатр-e",
+  "editForm": "i-i-s-f-i-l-m-кинотеатр-e",
+  "external": false,
+  "caption": "Кинотеатр",
+  "name": "IISFILMКинотеатрL",
+  "className": "КинотеатрL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-f-i-l-m-кинотеатр",
+      "modelProjection": "КинотеатрL"
+    }
+  ]
+}

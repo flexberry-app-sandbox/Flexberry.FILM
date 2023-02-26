@@ -1,0 +1,65 @@
+﻿{
+  "applicationCaption": "FILM",
+  "applicationTitle": "FILM",
+  "items": [
+    {
+      "link": null,
+      "menuName": "ф-и-л-ь-м",
+      "caption": "ФИЛЬМ",
+      "title": "ФИЛЬМ",
+      "children": [
+        {
+          "link": "i-i-s-f-i-l-m-кинотеатр-l",
+          "menuName": null,
+          "caption": "Кинотеатр",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-f-i-l-m-фильмы-l",
+          "menuName": null,
+          "caption": "Фильмы",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-f-i-l-m-сеансы-l",
+          "menuName": null,
+          "caption": "Сеансы",
+          "title": "",
+          "children": null
+        }
+      ]
+    },
+    {
+      "link": null,
+      "menuName": "с-п-р-а-в-о-ч-н-и-к-и",
+      "caption": "СПРАВОЧНИКИ",
+      "title": "СПРАВОЧНИКИ",
+      "children": [
+        {
+          "link": "i-i-s-f-i-l-m-сеансы-l",
+          "menuName": null,
+          "caption": "СеансыL",
+          "title": "Сеансы",
+          "children": null
+        },
+        {
+          "link": "i-i-s-f-i-l-m-кинотеатр-l",
+          "menuName": null,
+          "caption": "КинотеатрL",
+          "title": "Кинотеатр",
+          "children": null
+        },
+        {
+          "link": "i-i-s-f-i-l-m-фильмы-l",
+          "menuName": null,
+          "caption": "ФильмыL",
+          "title": "Фильмы",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

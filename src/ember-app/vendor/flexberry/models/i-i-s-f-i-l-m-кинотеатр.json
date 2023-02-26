@@ -1,0 +1,54 @@
+﻿{
+  "name": "IISFILMКинотеатр",
+  "modelName": "i-i-s-f-i-l-m-кинотеатр",
+  "className": "Кинотеатр",
+  "nameSpace": "IIS.FILM",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [
+    {
+      "name": "код",
+      "type": "number",
+      "flexberryType": "int",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    }
+  ],
+  "belongsTo": [],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "КинотеатрE",
+      "modelName": "i-i-s-f-i-l-m-кинотеатр",
+      "attrs": [
+        {
+          "name": "код",
+          "caption": "Код",
+          "hidden": false,
+          "index": 0
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    },
+    {
+      "name": "КинотеатрL",
+      "modelName": "i-i-s-f-i-l-m-кинотеатр",
+      "attrs": [
+        {
+          "name": "код",
+          "caption": "Код",
+          "hidden": false,
+          "index": 0
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}
